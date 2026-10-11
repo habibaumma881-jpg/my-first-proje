@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body style="text-align: center; font-family: Arial; padding: 50px;">
+    <h1>Welcome to My Website!</h1>
+    <p>This is my first project code on GitHub.</p>
+</body>
+</html>
